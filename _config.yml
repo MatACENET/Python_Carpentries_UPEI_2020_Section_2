@@ -35,7 +35,7 @@ flavor: "Python"
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "UPEI and ACENET presents: Python with Software Carpentries"
+title: "Software Carpentry Workshop in Unix Shell, Version Control and Python"
 
 
 #------------------------------------------------------------
