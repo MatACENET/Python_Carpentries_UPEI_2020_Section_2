@@ -15,7 +15,7 @@ instructor: ["Mathew Larade", "Ross Dickson"] # boxed, comma-separated list of i
 #helper: []     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["mat.larade@ace-net.ca, michele.fash@ace-net.ca"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
-eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite: "98414330913"          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
@@ -144,8 +144,9 @@ special instructions.
   The workshop organizers have checked that:
 </p>
 <ul>
-  <li>The room is wheelchair / scooter accessible.</li>
-  <li>Accessible restrooms are available.</li>
+  <li>The room is wheelchair accessible, with assistance.</li>
+  <li>The room does not have space to maneuver a scooter, but please contact us to see if accomidations can be made. </li>
+  <li>Accessible restrooms are available. </li>
 </ul>
 <p>
   Materials will be provided in advance of the workshop and
