@@ -205,18 +205,13 @@ Everyone who participates in Carpentries activities is required to conform to th
 <hr/>
 
 
-{% comment %}
-Collaborative Notes
-
-If you want to use an Etherpad, go to
-
-https://pad.carpentries.org/Computing_Bootcamp_(1)_-_April_27th_-_May_6th
-
-where 'YYYY-MM-DD-site' is the identifier for your workshop,
-e.g., '2015-06-10-esu'.
-{% endcomment %}
-{% if page.collaborative_notes %}
 <h2 id="collaborative_notes">Collaborative Notes</h2>
+
+If you want to use an Etherpad, for collaborative notes, please <a href="https://pad.carpentries.org/Computing_Bootcamp_(1)_-_April_27th_-_May_6th"> go here</a>
+
+
+{% if page.collaborative_notes %}
+
 
 <p>
 We will use this <a href="{{page.collaborative_notes}}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
